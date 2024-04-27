@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "name": "Teath-Orthodontist",
+        "slots": [
+            "9:00 AM - 11:00 AM",
+            "2:00 PM - 4:00 PM",
+            "10:00 AM - 12:00 PM"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Cosmatic Dentistry",
+        "slots": [
+            "9:00 AM - 11:00 AM",
+            "10:00 AM - 12:00 PM"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Teath Cleaning",
+        "slots": []
+    },
+    {
+        "id": 4,
+        "name": "Cavity Protection",
+        "slots": [
+            "1:00 PM - 3:00 PM",
+            "10:00 AM - 12:00 PM"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Padieatic Dental",
+        "slots": [
+            "10:00 AM - 12:00 PM",
+            "3:00 PM - 5:00 PM"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Padieatic Dental",
+        "slots": [
+            "3:00 PM - 5:00 PM",
+            "9:00 AM - 11:00 AM"
+        ]
+    }
+]

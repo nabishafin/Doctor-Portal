@@ -1,9 +1,12 @@
 import React from 'react';
+import footer from '../../../assets/images/footer.png'
 
 const Footer = () => {
     return (
         <div>
-            <div>
+            <div style={{
+                background: `url(${footer})`
+            }}>
                 <footer className="footer p-10  ">
                     <nav>
                         <h6 className="footer-title">Services</h6>
@@ -30,7 +33,7 @@ const Footer = () => {
             <div>
                 <footer className="footer footer-center p-4 ">
                     <aside>
-                        <p className='text-primary'>Copyright © 2024 - All right reserved by Nabi Shafin</p>
+                        <p className='text-primary font-bold'>Copyright © 2024 - All right reserved by Nabi Shafin</p>
                     </aside>
                 </footer>
             </div>
