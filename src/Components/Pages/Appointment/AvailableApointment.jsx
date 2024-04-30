@@ -9,7 +9,7 @@ const AvailableApointment = ({ date }) => {
     console.log(treatment)
 
     useState(() => {
-        fetch('slots.json')
+        fetch('http://localhost:5000/service')
             .then(res => res.json())
             .then(data => setservices(data))
     }, [])
