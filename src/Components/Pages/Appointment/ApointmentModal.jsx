@@ -8,6 +8,7 @@ const ApointmentModal = ({ treatment, date, settreatment }) => {
         event.preventDefault();
         const slot = event.target.slot.value;
         console.log(slot);
+
         settreatment(null);
     }
 
@@ -31,7 +32,6 @@ const ApointmentModal = ({ treatment, date, settreatment }) => {
                         <input type="Submit" value="submit" className="btn bg-gradient-to-r from-primary to-secondary w-full max-w-xs" />
                     </form>
                 </div>
-
                 <label className="modal-backdrop" htmlFor="my_modal_7">Close</label>
             </div>
 

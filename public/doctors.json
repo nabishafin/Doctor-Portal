@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "actor": "William Hartnell",
+        "email": "William@gmail.com",
+        "phone": "98984934339539",
+        "start_year": 1963,
+        "end_year": 1966,
+        "vistAmont": 120,
+        "location": "Germany",
+        "image_url": "https://i.ibb.co/94Bj6D3/doctor-2.webp",
+        "info": "William Hartnell portrayed the First Doctor, who was known for his grandfatherly demeanor and initial reluctance to involve himself in the affairs of others. He was a scientist and explorer, traveling through time and space in the TARDIS."
+    },
+    {
+        "id": 2,
+        "actor": "Patrick Troughton",
+        "email": "patrick@gmail.com",
+        "phone": "98984934438539",
+        "start_year": 1966,
+        "end_year": 1969,
+        "vistAmont": 126,
+        "location": "Italy",
+        "image_url": "https://i.ibb.co/60c3wZk/doctor-3.jpg",
+        "info": "Patrick Troughton played the Second Doctor, characterized by his playful and occasionally mischievous nature. He often relied on his quick wit to outsmart adversaries and was known for his skill in playing the recorder."
+    },
+    {
+        "id": 3,
+        "actor": "Jon Pertwee",
+        "email": "Jon@gmail.com",
+        "PHone": "9898483898539",
+        "start_year": 1970,
+        "end_year": 1974,
+        "vistAmont": 160,
+        "location": "Australia",
+        "image_url": "https://i.ibb.co/60c3wZk/doctor-3.jpg",
+        "info": "Jon Pertwee portrayed the Third Doctor, who was exiled to Earth by the Time Lords and forced to work for UNIT. He was a skilled martial artist and had a fondness for gadgets and vehicles."
+    },
+    {
+        "id": 4,
+        "actor": "Tom Baker",
+        "email": "Tom@gmail.com",
+        "PHone": "98984999898539",
+        "start_year": 1974,
+        "end_year": 1981,
+        "vistAmont": 100,
+        "location": "Germany",
+        "image_url": "https://i.ibb.co/60c3wZk/doctor-3.jpg",
+        "info": "Tom Baker played the Fourth Doctor, the longest-serving incarnation of the character. He was known for his iconic scarf, curly hair, and whimsical personality, often mixing moments of levity with deep wisdom."
+    },
+    {
+        "id": 5,
+        "actor": "Peter Davison",
+        "email": "peter@gmail.com",
+        "PHone": "989838834898539",
+        "start_year": 1982,
+        "end_year": 1984,
+        "vistAmont": 176,
+        "location": "Brazil",
+        "image_url": "https://i.ibb.co/94Bj6D3/doctor-2.webp",
+        "info": "Peter Davison portrayed the Fifth Doctor, who was characterized by his youthful appearance and cricket attire. He was compassionate and gentle but also faced moments of moral ambiguity and inner conflict."
+    },
+    {
+        "id": 6,
+        "actor": "Colin Baker",
+        "email": "Colin@gmail.com",
+        "PHone": "9898459898539",
+        "start_year": 1984,
+        "end_year": 1986,
+        "vistAmont": 196,
+        "location": "Germany",
+        "image_url": "https://i.ibb.co/Yknkq1t/doctor-5.jpg",
+        "info": "Colin Baker played the Sixth Doctor, known for his colorful and eccentric fashion sense. He had a complex personality, sometimes displaying arrogance and bombast, but also moments of vulnerability and compassion."
+    },
+    {
+        "id": 7,
+        "actor": "Sylvester McCoy",
+        "email": "Sylvester@gmail.com",
+        "PHone": "9898544898539",
+        "start_year": 1987,
+        "end_year": 1996,
+        "vistAmont": 116,
+        "location": "Australia",
+        "image_url": "https://i.ibb.co/60c3wZk/doctor-3.jpg",
+        "info": "Sylvester McCoy portrayed the Seventh Doctor, who often concealed his cunning and manipulative nature behind a facade of clownishness. He was a master strategist and had a mysterious past."
+    },
+    {
+        "id": 8,
+        "actor": "Paul McGann",
+        "email": "paul@gmail.com",
+        "PHone": "9898490788539",
+        "start_year": 1996,
+        "end_year": 2005,
+        "vistAmont": 129,
+        "location": "Germany",
+        "image_url": "https://i.ibb.co/Yknkq1t/doctor-5.jpg",
+        "info": "Paul McGann played the Eighth Doctor, who appeared in the 1996 television movie. He was romantic and compassionate, with a love for adventure and exploration. He was also the first Doctor to openly express his romantic feelings."
+    }
+]

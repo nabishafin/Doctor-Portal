@@ -14,6 +14,8 @@ import Appointment from './Components/Pages/Appointment/Appointment.jsx';
 import Reviews from './Components/Pages/Reviews/Reviews.jsx';
 import Contact from './Components/Pages/Contact/Contact.jsx';
 import LogIn from './Components/Pages/LogIn/LogIn.jsx';
+import SingUp from './Components/Pages/LogIn/SingUp.jsx';
+import Doctors from './Components/Pages/Doctors/Doctors.jsx';
 
 
 const router = createBrowserRouter([
@@ -44,6 +46,14 @@ const router = createBrowserRouter([
       {
         path: '/login',
         element: <LogIn />
+      },
+      {
+        path: '/singup',
+        element: <SingUp />
+      },
+      {
+        path: '/doctors',
+        element: <Doctors />
       }
     ]
   },

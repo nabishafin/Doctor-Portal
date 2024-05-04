@@ -6,7 +6,7 @@ const AvailableApointment = ({ date }) => {
 
     const [services, setservices] = useState([]);
     const [treatment, settreatment] = useState(null);
-    console.log(treatment)
+
 
     useState(() => {
         fetch('http://localhost:5000/service')
