@@ -1,8 +1,14 @@
 import React from 'react';
-import ButtonPrimary from '../../Sheared/ButtonPrimary/ButtonPrimary';
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 const Modal = ({ details }) => {
     const { actor, start_year, end_year, vistAmont, location, info, email, phone } = details;
+
+    const handlToast = () => {
+        toast('Appoinment Done')
+    }
+
     return (
         <div>
             <input type="checkbox" id="my_modal_6" className="modal-toggle" />
@@ -24,8 +30,9 @@ const Modal = ({ details }) => {
 
                     <div className="modal-action">
                         <label htmlFor="my_modal_6" className="btn">Close!</label>
-                        <ButtonPrimary> Appointment</ButtonPrimary>
+                        <button className='btn btn-ghost bg' onClick={handlToast}> Appointment</button>
                     </div>
+                    <ToastContainer />
                 </div>
             </div>
         </div >
