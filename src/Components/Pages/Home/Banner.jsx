@@ -6,7 +6,7 @@ import bg from '../../../assets/images/bg.png'
 
 const Banner = () => {
     return (
-        <div
+        <div className='shadow-lg'
             style={
                 { background: `url(${bg})` }
             }

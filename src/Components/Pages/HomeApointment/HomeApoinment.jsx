@@ -8,7 +8,7 @@ const HomeApoinment = () => {
         <section style={{
             background: `url(${bg})`
         }}
-            className='flex items-center justify-center mt-16 lg:mt-20 md : '>
+            className='flex items-center justify-center mt-16 shadow-2xl lg:mt-20 md : '>
             <div className='flex-1 hidden lg:block '>
                 <img className='mt-[-100px]' src={img} alt="" />
             </div>
