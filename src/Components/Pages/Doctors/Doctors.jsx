@@ -10,13 +10,13 @@ const Doctors = () => {
             .then(res => res.json())
             .then(res => setdoctors(res))
     }, [])
- 
+
 
     console.log(doctors)
 
     return (
         <div className=' max-w-screen-xl mx-auto p-6 '>
-            <h1 className='text-2xl text-primary font-bold text-center mb-5'>Here Are Our Super Heros </h1>
+            <h1 className='text-2xl lg:text-4xl text-secondary font-bold text-center mb-5 border-b p-2'>Here Are Our Super Heros </h1>
             <div className='grid grid-cols-1 lg:grid-cols-3 gap-6'>
                 {
                     doctors.map(doctor => <DoctorsDetails key={doctor.id} doctor={doctor} setdetails={setdetails} />)

@@ -18,8 +18,6 @@ export default {
           "base-100": "#ffffff",
         },
       },
-      "dark",
-      "",
     ],
   },
   plugins: [require("daisyui")],
