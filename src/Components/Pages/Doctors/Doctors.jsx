@@ -10,6 +10,7 @@ const Doctors = () => {
             .then(res => res.json())
             .then(res => setdoctors(res))
     }, [])
+ 
 
     console.log(doctors)
 
