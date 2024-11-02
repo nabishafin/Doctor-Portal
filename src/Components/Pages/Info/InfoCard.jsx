@@ -3,7 +3,7 @@
 const InfoCard = ({ clock, carttitle, bg }) => {
 
     return (
-        <div className='mt-5 shadow-lg rounded-2xl'>
+        <div className='mt-5 shadow-lg rounded-2xl text-white'>
             <div className={`card lg:card-side shadow-xl ${bg} p-4 `}>
                 <figure>
                     <img src={clock} />
